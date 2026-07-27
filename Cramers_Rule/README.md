@@ -4,3 +4,4 @@ The relationship between the two variables is AX=B. To solve for x, the inverse 
 The value of each variable in X can be expressed as xi = det(Ai)/det(A), where xi is the ith variable, Ai is the matrix A, but with the ith column of A being replaced with the column of B.
 
 Cramer_Rule.py takes in the coefficients of the equations, the constants, and the variables to calculate and output the solution to the system using Cramer's rule.
+Cramer_Rule.ipynb gives an example output using a sample input.
